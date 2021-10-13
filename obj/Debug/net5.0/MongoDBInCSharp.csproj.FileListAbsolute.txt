@@ -14,3 +14,16 @@ C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.dll
 C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\ref\MongoDBInCSharp.dll
 C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.pdb
 C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.genruntimeconfig.cache
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\DnsClient.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.csproj.CopyComplete
