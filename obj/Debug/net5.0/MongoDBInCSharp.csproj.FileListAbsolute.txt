@@ -1,0 +1,16 @@
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDBInCSharp.exe
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDBInCSharp.deps.json
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDBInCSharp.runtimeconfig.json
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDBInCSharp.runtimeconfig.dev.json
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDBInCSharp.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\ref\MongoDBInCSharp.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\bin\Debug\net5.0\MongoDBInCSharp.pdb
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.csproj.AssemblyReference.cache
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.AssemblyInfoInputs.cache
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.AssemblyInfo.cs
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\ref\MongoDBInCSharp.dll
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.pdb
+C:\Users\timea\source\repos\MongoDBInCSharp\obj\Debug\net5.0\MongoDBInCSharp.genruntimeconfig.cache
